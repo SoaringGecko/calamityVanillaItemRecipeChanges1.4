@@ -1,0 +1,8 @@
+Calamity Vanilla Item Recipe Changes does exactly that (adds the qol vanilla crafting changes from Calamity)
+
+Please note this mod does not work while Calamity is enabled
+
+Some sprites used are made and owned by the Calamity Mod dev team
+
+Calamity Mod wiki: https://calamitymod.wiki.gg/wiki/Calamity_Mod_Wiki
+Calamity Mod forum page: https://forums.terraria.org/index.php?threads/calamity-mod.44065/

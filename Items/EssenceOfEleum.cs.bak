@@ -1,0 +1,25 @@
+﻿using Terraria.ID;
+using Terraria.ModLoader;
+
+namespace calamityVanillaItemRecipeChanges.Items
+{
+    class EssenceOfEleum : ModItem
+    {
+		public override void SetStaticDefaults() 
+		{
+			DisplayName.SetDefault("Essence of Eleum");
+			Tooltip.SetDefault("The essence of cold creatures");
+		}
+
+		public override void SetDefaults()
+		{
+            Item.maxStack = 999;
+            Item.consumable = false;
+            Item.value = 4000;
+            Item.rare = ItemRarityID.Pink;
+            SacrificeTotal = 25;
+        }
+
+
+    }
+}

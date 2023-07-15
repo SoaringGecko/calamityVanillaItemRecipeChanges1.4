@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MmqV7uulaekMa+jC89BqdYTPRR6TCUOoyrGxRqkkfjvT5vU9+LI6ftrIz52zDh9J1p2GzUwM+PDysTYBcu818g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nick\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\calamityVanillaItemRecipeChanges\\calamityVanillaItemRecipeChanges.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nick\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

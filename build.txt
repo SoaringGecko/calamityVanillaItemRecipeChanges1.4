@@ -1,0 +1,4 @@
+displayName = Calamity Vanilla Item Recipe Changes
+author = WhiteTapeti
+version = 2.2.2
+homepage = https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4

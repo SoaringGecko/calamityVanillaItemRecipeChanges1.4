@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calamityVanillaItemRecipeChanges", "calamityVanillaItemRecipeChanges.csproj", "{BF329D19-A828-4649-8883-E8F5FBED26BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF329D19-A828-4649-8883-E8F5FBED26BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF329D19-A828-4649-8883-E8F5FBED26BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF329D19-A828-4649-8883-E8F5FBED26BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF329D19-A828-4649-8883-E8F5FBED26BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA89D213-79ED-4185-94C3-B890C5BA16B5}
+	EndGlobalSection
+EndGlobal

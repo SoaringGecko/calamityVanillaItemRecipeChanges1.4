@@ -1,0 +1,46 @@
+Items: {
+	AncientBoneDust: {
+		DisplayName: Ancient Bone Dust
+		Tooltip: ""
+	}
+
+	BeetleJuice: {
+		DisplayName: Beetle Juice
+		Tooltip: ""
+	}
+
+	BlightedLens: {
+		DisplayName: Blighted Lens
+		Tooltip: ""
+	}
+
+	BloodOrb: {
+		DisplayName: Blood Orb
+		Tooltip: ""
+	}
+
+	DemonicBoneAsh: {
+		DisplayName: Demonic Bone Ash
+		Tooltip: ""
+	}
+
+	DesertFeather: {
+		DisplayName: Desert Feather
+		Tooltip: ""
+	}
+
+	EssenceOfEleum: {
+		DisplayName: Essence Of Eleum
+		Tooltip: ""
+	}
+
+	MurkyPaste: {
+		DisplayName: Murky Paste
+		Tooltip: ""
+	}
+
+	youAreCheatingArentYou: {
+		DisplayName: you Are Cheating Arent You
+		Tooltip: ""
+	}
+}
