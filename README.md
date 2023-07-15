@@ -1,4 +1,4 @@
-# calamityVanillaItemRecipeChanges
+# calamityVanillaItemRecipeChanges (For Terraria 1.4)
 
 Calamity Vanilla Item Recipe Changes mod adds the vanilla crafting changes from Calamity to vanilla Terraria  
 (Please note this mod does not work while the Calamity mod is enabled)
