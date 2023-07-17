@@ -414,6 +414,12 @@ All crafting recipes that have been added
     <td><a href="https://terraria.wiki.gg/wiki/Sky_Mill"><img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4c/Sky_Mill_%28placed%29.gif/revision/latest/scale-to-width-down/46?cb=20200602055659" alt="Sky Mill" title="Sky Mill"> Sky Mill</a></td>
     <td><a href="https://terraria.wiki.gg/wiki/Sunplate_Block"><img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a1/Sunplate_Block.png/revision/latest/scale-to-width-down/16?cb=20200516222655" alt="Sunplate Block" title="Sunplate Block"> Sunplate Block</a> (10)</br><a href="https://terraria.wiki.gg/wiki/Cloud"><img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d2/Cloud.png/revision/latest/scale-to-width-down/16?cb=20200516205553" alt="Cloud" title="Cloud"> Cloud</a> (5)</br><a href="https://terraria.wiki.gg/wiki/Rain_Cloud"><img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Rain_Cloud.png/revision/latest/scale-to-width-down/16?cb=20200516220945" alt="Rain Cloud" title="Rain Cloud"> Rain Cloud</a> (3)</td>
    </tr>
+   
+   <tr>
+    <td><a href="https://terraria.wiki.gg/wiki/Living_Loom"><img src="https://terraria.wiki.gg/images/9/9b/Living_Loom.png" alt="Living Loom" title="Living Loom"> Living Loom</a></td>
+    <td><a href="https://terraria.wiki.gg/wiki/Loom"><img src="https://terraria.wiki.gg/images/3/3b/Loom.png" alt="Loom" title="Loom"> Loom</a></br><a href="https://terraria.wiki.gg/wiki/Vine"><img src="https://terraria.wiki.gg/images/f/ff/Vine.png" alt="Vine" title="Vine"> Vine</a> (2)</td>
+    <td><a href="https://terraria.wiki.gg/images/0/00/Sawmill_%28placed%29.gif"><img src="https://terraria.wiki.gg/images/0/00/Sawmill_%28placed%29.gif" alt="Sawmill" title="Sawmill"> Sawmill</a></td>
+   </tr>
 
 </table>
 
