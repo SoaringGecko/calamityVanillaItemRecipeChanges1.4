@@ -199,6 +199,12 @@ namespace calamityVanillaItemRecipeChanges.Items
 				.AddTile(TileID.Anvils)
 				.Register();
 
+			Recipe.Create(ItemID.FlameWakerBoots)
+				.AddIngredient(ItemID.Silk, 8)
+				.AddIngredient(ItemID.Obsidian, 2)
+				.AddTile(TileID.Loom)
+				.Register();
+
 			Recipe.Create(ItemID.BandofRegeneration)
 				.AddIngredient(ItemID.Shackle)
 				.AddIngredient(ItemID.LifeCrystal)
@@ -378,7 +384,13 @@ namespace calamityVanillaItemRecipeChanges.Items
 
 			Recipe.Create(ItemID.RocketI, 20)
 				.AddIngredient(ItemID.EmptyBullet, 20)
-				.AddIngredient(ItemID.ExplosivePowder)
+				.AddIngredient(ItemID.ExplosivePowder, 1)
+				.AddTile(TileID.MythrilAnvil)
+				.Register();
+
+			Recipe.Create(ItemID.RocketII, 20)
+				.AddIngredient(ItemID.EmptyBullet, 20)
+				.AddIngredient(ItemID.ExplosivePowder, 2)
 				.AddTile(TileID.MythrilAnvil)
 				.Register();
 
@@ -547,6 +559,36 @@ namespace calamityVanillaItemRecipeChanges.Items
 				.AddTile(TileID.Sawmill)
 				.Register();
 
+			//  PLACEABLES
+
+			Recipe.Create(ItemID.CatBast)
+				.AddIngredient(ItemID.IronBar, 7)
+				.AddIngredient(ItemID.GoldBar, 3)
+				.AddIngredient(ItemID.Ruby)
+				.AddTile(TileID.Anvils)
+				.Register();
+
+			Recipe.Create(ItemID.CatBast)
+				.AddIngredient(ItemID.LeadBar, 7)
+				.AddIngredient(ItemID.GoldBar, 3)
+				.AddIngredient(ItemID.Ruby)
+				.AddTile(TileID.Anvils)
+				.Register();
+
+			Recipe.Create(ItemID.CatBast)
+				.AddIngredient(ItemID.IronBar, 7)
+				.AddIngredient(ItemID.PlatinumBar, 3)
+				.AddIngredient(ItemID.Ruby)
+				.AddTile(TileID.Anvils)
+				.Register();
+
+			Recipe.Create(ItemID.CatBast)
+				.AddIngredient(ItemID.LeadBar, 7)
+				.AddIngredient(ItemID.PlatinumBar, 3)
+				.AddIngredient(ItemID.Ruby)
+				.AddTile(TileID.Anvils)
+				.Register();
+
 			//	POTIONS
 
 			Recipe.Create(ItemID.AmmoReservationPotion)
@@ -639,6 +681,12 @@ namespace calamityVanillaItemRecipeChanges.Items
 				.AddTile(TileID.AlchemyTable)
 				.Register();
 
+			Recipe.Create(ItemID.LuckPotionGreater)
+				.AddIngredient(ItemID.BottledWater)
+				.AddIngredient(ModContent.ItemType<BloodOrb>(), 10)
+				.AddTile(TileID.AlchemyTable)
+				.Register();
+
 			Recipe.Create(ItemID.HunterPotion)
 				.AddIngredient(ItemID.BottledWater)
 				.AddIngredient(ModContent.ItemType<BloodOrb>(), 10)
@@ -663,6 +711,12 @@ namespace calamityVanillaItemRecipeChanges.Items
 				.AddTile(TileID.AlchemyTable)
 				.Register();
 
+			Recipe.Create(ItemID.LuckPotionLesser)
+				.AddIngredient(ItemID.BottledWater)
+				.AddIngredient(ModContent.ItemType<BloodOrb>(), 10)
+				.AddTile(TileID.AlchemyTable)
+				.Register();
+
 			Recipe.Create(ItemID.LifeforcePotion)
 				.AddIngredient(ItemID.BottledWater)
 				.AddIngredient(ModContent.ItemType<BloodOrb>(), 10)
@@ -670,6 +724,12 @@ namespace calamityVanillaItemRecipeChanges.Items
 				.Register();
 
 			Recipe.Create(ItemID.LovePotion)
+				.AddIngredient(ItemID.BottledWater)
+				.AddIngredient(ModContent.ItemType<BloodOrb>(), 10)
+				.AddTile(TileID.AlchemyTable)
+				.Register();
+
+			Recipe.Create(ItemID.LuckPotion)
 				.AddIngredient(ItemID.BottledWater)
 				.AddIngredient(ModContent.ItemType<BloodOrb>(), 10)
 				.AddTile(TileID.AlchemyTable)
@@ -700,6 +760,12 @@ namespace calamityVanillaItemRecipeChanges.Items
 				.Register();
 
 			Recipe.Create(ItemID.ObsidianSkinPotion)
+				.AddIngredient(ItemID.BottledWater)
+				.AddIngredient(ModContent.ItemType<BloodOrb>(), 10)
+				.AddTile(TileID.AlchemyTable)
+				.Register();
+
+			Recipe.Create(ItemID.PotionOfReturn)
 				.AddIngredient(ItemID.BottledWater)
 				.AddIngredient(ModContent.ItemType<BloodOrb>(), 10)
 				.AddTile(TileID.AlchemyTable)
@@ -795,12 +861,6 @@ namespace calamityVanillaItemRecipeChanges.Items
 				.AddTile(TileID.AlchemyTable)
 				.Register();
 
-			Recipe.Create(ItemID.PotionOfReturn)
-				.AddIngredient(ItemID.BottledWater)
-				.AddIngredient(ModContent.ItemType<BloodOrb>(), 10)
-				.AddTile(TileID.AlchemyTable)
-				.Register();
-
 			Recipe.Create(ItemID.BiomeSightPotion)
 				.AddIngredient(ItemID.BottledWater)
 				.AddIngredient(ModContent.ItemType<BloodOrb>(), 10)
@@ -824,6 +884,39 @@ namespace calamityVanillaItemRecipeChanges.Items
 			Recipe.Create(ItemID.BugNet)
 				.AddIngredient(ItemID.LeadBar, 3)
 				.AddIngredient(ItemID.Cobweb, 30)
+				.AddTile(TileID.Anvils)
+				.Register();
+
+			Recipe.Create(ItemID.DesertMinecart)
+				.AddIngredient(ItemID.SandstoneBrick, 20)
+				.AddIngredient(ItemID.GoldBar, 6)
+				.AddIngredient(ItemID.IronBar, 3)
+				.AddTile(TileID.Anvils)
+				.Register();
+
+			Recipe.Create(ItemID.DesertMinecart)
+				.AddIngredient(ItemID.SandstoneBrick, 20)
+				.AddIngredient(ItemID.GoldBar, 6)
+				.AddIngredient(ItemID.LeadBar, 3)
+				.AddTile(TileID.Anvils)
+				.Register();
+
+			Recipe.Create(ItemID.DesertMinecart)
+				.AddIngredient(ItemID.SandstoneBrick, 20)
+				.AddIngredient(ItemID.PlatinumBar, 6)
+				.AddIngredient(ItemID.IronBar, 3)
+				.AddTile(TileID.Anvils)
+				.Register();
+
+			Recipe.Create(ItemID.DesertMinecart)
+				.AddIngredient(ItemID.SandstoneBrick, 20)
+				.AddIngredient(ItemID.PlatinumBar, 6)
+				.AddIngredient(ItemID.LeadBar, 3)
+				.AddTile(TileID.Anvils)
+				.Register();
+
+			Recipe.Create(ItemID.EncumberingStone)
+				.AddIngredient(ItemID.StoneBlock, 100)
 				.AddTile(TileID.Anvils)
 				.Register();
 
@@ -969,6 +1062,18 @@ namespace calamityVanillaItemRecipeChanges.Items
 				.AddTile(TileID.Loom)
 				.Register();
 
+			Recipe.Create(ItemID.TendonHook)
+				.AddIngredient(ItemID.WormHook)
+				.AddTile(TileID.TinkerersWorkbench)
+				.AddCondition(Condition.InGraveyard)
+				.Register();
+
+			Recipe.Create(ItemID.WormHook)
+				.AddIngredient(ItemID.TendonHook)
+				.AddTile(TileID.TinkerersWorkbench)
+				.AddCondition(Condition.InGraveyard)
+				.Register();
+
 			Recipe.Create(ItemID.StaffofRegrowth)
 				.AddIngredient(ItemID.RichMahogany, 10)
 				.AddIngredient(ItemID.JungleSpores, 5)
@@ -1101,6 +1206,42 @@ namespace calamityVanillaItemRecipeChanges.Items
 
 			Recipe.Create(ItemID.TheRottedFork)
 				.AddIngredient(ItemID.BallOHurt)
+				.AddTile(TileID.Anvils)
+				.AddCondition(Condition.InGraveyard)
+				.Register();
+
+			Recipe.Create(ItemID.ChainGuillotines)
+				.AddIngredient(ItemID.FetidBaghnakhs)
+				.AddTile(TileID.Anvils)
+				.AddCondition(Condition.InGraveyard)
+				.Register();
+
+			Recipe.Create(ItemID.FetidBaghnakhs)
+				.AddIngredient(ItemID.ChainGuillotines)
+				.AddTile(TileID.Anvils)
+				.AddCondition(Condition.InGraveyard)
+				.Register();
+
+			Recipe.Create(ItemID.ClingerStaff)
+				.AddIngredient(ItemID.SoulDrain)
+				.AddTile(TileID.Anvils)
+				.AddCondition(Condition.InGraveyard)
+				.Register();
+
+			Recipe.Create(ItemID.SoulDrain)
+				.AddIngredient(ItemID.ClingerStaff)
+				.AddTile(TileID.Anvils)
+				.AddCondition(Condition.InGraveyard)
+				.Register();
+
+			Recipe.Create(ItemID.DartPistol)
+				.AddIngredient(ItemID.DartRifle)
+				.AddTile(TileID.Anvils)
+				.AddCondition(Condition.InGraveyard)
+				.Register();
+
+			Recipe.Create(ItemID.DartRifle)
+				.AddIngredient(ItemID.DartPistol)
 				.AddTile(TileID.Anvils)
 				.AddCondition(Condition.InGraveyard)
 				.Register();

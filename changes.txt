@@ -1,0 +1,26 @@
+Added recipes to the following:
+# Accessories
+Flame Waker Boots
+
+# Ammunition
+Rocket II
+
+# Placeables
+Bast Statue
+
+# Potions
+Greater Luck Potion
+Lesser Luck Potion
+Luck Potion
+
+# Tools
+Desert Minecart
+Encumbering Stone
+Tendon Hook
+Worm Hook
+
+# Weapons
+Chain Guillotines
+Fetid Baghnakhs
+Clinger Staff
+Life Drain

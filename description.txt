@@ -6,3 +6,31 @@ Some sprites used are made and owned by the Calamity Mod dev team
 
 Calamity Mod wiki: https://calamitymod.wiki.gg/wiki/Calamity_Mod_Wiki
 Calamity Mod forum page: https://forums.terraria.org/index.php?threads/calamity-mod.44065/
+
+# Newest version changes:
+Added recipes to the following:
+# Accessories
+Flame Waker Boots
+
+# Ammunition
+Rocket II
+
+# Placeables
+Bast Statue
+
+# Potions
+Greater Luck Potion
+Lesser Luck Potion
+Luck Potion
+
+# Tools
+Desert Minecart
+Encumbering Stone
+Tendon Hook
+Worm Hook
+
+# Weapons
+Chain Guillotines
+Fetid Baghnakhs
+Clinger Staff
+Life Drain
