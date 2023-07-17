@@ -418,7 +418,7 @@ All crafting recipes that have been added
    <tr>
     <td><a href="https://terraria.wiki.gg/wiki/Living_Loom"><img src="https://terraria.wiki.gg/images/9/9b/Living_Loom.png" alt="Living Loom" title="Living Loom"> Living Loom</a></td>
     <td><a href="https://terraria.wiki.gg/wiki/Loom"><img src="https://terraria.wiki.gg/images/3/3b/Loom.png" alt="Loom" title="Loom"> Loom</a></br><a href="https://terraria.wiki.gg/wiki/Vine"><img src="https://terraria.wiki.gg/images/f/ff/Vine.png" alt="Vine" title="Vine"> Vine</a> (2)</td>
-    <td><a href="https://terraria.wiki.gg/images/0/00/Sawmill_%28placed%29.gif"><img src="https://terraria.wiki.gg/images/0/00/Sawmill_%28placed%29.gif" alt="Sawmill" title="Sawmill"> Sawmill</a></td>
+    <td><a href="https://terraria.wiki.gg/wiki/Sawmill"><img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Sawmill_%28placed%29.gif/revision/latest?cb=20210923100639&format=original" alt="Sawmill" title="Sawmill"> Sawmill</a></td>
    </tr>
 
 </table>
