@@ -163,7 +163,11 @@ All crafting recipes that have been added
       </br>
       <a href="#armor">Armor</a>
       </br>
-      <a href="#consumables">Consumables</a></br><a href="#crafting-stations">Crafting Stations</a>
+      <a href="#consumables">Consumables</a>
+      </br>
+      <a href="#crafting-stations">Crafting Stations</a>
+      </br>
+      <a href="#placeables">Placeables</a>
       </br>
       <a href="#potions">Potions</a>
       </br>
