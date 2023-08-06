@@ -1593,6 +1593,23 @@ All crafting recipes that have been added
   </tr>
   <tr>
     <td>
+      <a href="https://terraria.wiki.gg/wiki/Demon_Conch">
+        <img src="https://terraria.wiki.gg/images/1/17/Demon_Conch.png" alt="Demon Conch" title="Demon Conch"> Demon Conch </a>
+    </td>
+    <td>
+      <a href="https://calamitymod.wiki.gg/wiki/Demonic_Bone_Ash">
+        <img src="Items/DemonicBoneAsh.png" alt="Demonic Bone Ash" title="Demonic Bone Ash"> Demonic Bone Ash </a></br>
+      <a href="https://terraria.wiki.gg/wiki/Hellstone_Bar">
+        <img src="https://terraria.wiki.gg/images/d/dc/Hellstone_Bar.png" alt="Hellstone Bar" title="Hellstone Bar"> Hellstone Bar </a> (4)
+    </td>
+    <td rowspan="1">
+      <a href="https://terraria.wiki.gg/wiki/Hellforge">
+        <img src="https://terraria.wiki.gg/images/1/17/Hellforge_%28placed%29.gif" width="44" alt="Hellforge" title="Hellforge"></a>
+      <a href="https://terraria.wiki.gg/wiki/Hellforge"> Hellforge </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://terraria.wiki.gg/wiki/Bug_Net">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d5/Bug_Net.png/revision/latest/scale-to-width-down/36?cb=20200516201728" alt="Bug Net" title="Bug Net"> Bug Net </a>
     </td>
