@@ -280,7 +280,7 @@ All crafting recipes that have been added
     <td>
       <a href="https://terraria.wiki.gg/wiki/Stinger">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Stinger.png/revision/latest/scale-to-width-down/16?cb=20200516222608" alt="Stinger" title="Stinger"> Stinger </a> (15) </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/MurkyPaste.png" alt="Murky Paste" title="Murky Paste"> Murky Paste </a>
     </td>
   </tr>
@@ -396,7 +396,7 @@ All crafting recipes that have been added
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6d/Sandstorm_in_a_Bottle.png/revision/latest/scale-to-width-down/20?cb=20200516221446" alt="Sandstorm in a Bottle" title="Sandstorm in a Bottle"> Sandstorm in a Bottle </a>
     </td>
     <td>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/DesertFeather.png"> Desert Feather </a> (10) </br>
       <a href="https://terraria.wiki.gg/wiki/Feather">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/3/33/Feather.png/revision/latest/scale-to-width-down/24?cb=20200516212209" alt="Feather"> Feather </a> (6) </br>
@@ -508,7 +508,7 @@ All crafting recipes that have been added
     <td>
       <a href="https://terraria.wiki.gg/wiki/Bone">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2c/Bone.png/revision/latest/scale-to-width-down/16?cb=20160525131636" alt="Bone" title="Bone"> Bone </a> (50) </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/AncientBoneDust.png" alt="Ancient Bone Dust" title="Ancient Bone Dust"> Ancient Bone Dust </a> (3)
     </td>
   </tr>
@@ -587,7 +587,7 @@ All crafting recipes that have been added
     <td>
       <a href="https://terraria.wiki.gg/wiki/Turtle_Shell">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5e/Turtle_Shell.png/revision/latest/scale-to-width-down/22?cb=20200516223207" alt="Turtle Shell" title="Turtle Shell"> Turtle Shell </a> (3) </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/EssenceOfEleum.png" alt="Essence of Eleum" title="Essence of Eleum"> Essence of Eleum </a> (9)
     </td>
   </tr>
@@ -662,7 +662,7 @@ All crafting recipes that have been added
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7c/Blinkroot.png/revision/latest/scale-to-width-down/16?cb=20200516192414" alt="Blinkroot" title="Blinkroot"> Blinkroot </a> (5) </br>
       <a href="https://terraria.wiki.gg/wiki/Daybloom">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/0/02/Daybloom.png/revision/latest/scale-to-width-down/12?cb=20200516211142" alt="Daybloom" title="Daybloom"> Daybloom </a> (5) </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BeetleJuice.png" alt="Beetle Juice" title="Beetle Juice"> Beetle Juice </a> (3)
     </td>
   </tr>
@@ -988,7 +988,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
     <td rowspan="46">
@@ -1005,7 +1005,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1018,7 +1018,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1031,7 +1031,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1044,7 +1044,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1057,7 +1057,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1070,7 +1070,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1083,7 +1083,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1096,7 +1096,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1109,7 +1109,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1122,7 +1122,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1135,7 +1135,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1148,7 +1148,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1161,7 +1161,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1174,7 +1174,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1187,7 +1187,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1200,7 +1200,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1213,7 +1213,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1226,7 +1226,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1239,7 +1239,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1252,7 +1252,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1265,7 +1265,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1278,7 +1278,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1291,7 +1291,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1304,7 +1304,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1317,7 +1317,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1330,7 +1330,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1343,7 +1343,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1356,7 +1356,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1369,7 +1369,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1382,7 +1382,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1395,7 +1395,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1408,7 +1408,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1421,7 +1421,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1434,7 +1434,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1447,7 +1447,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1460,7 +1460,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1473,7 +1473,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1486,7 +1486,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1499,7 +1499,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1512,7 +1512,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1525,7 +1525,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1538,7 +1538,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1551,7 +1551,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1564,7 +1564,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
@@ -1577,7 +1577,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Bottled_Water">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Bottled_Water.png/revision/latest/scale-to-width-down/20?cb=20200516200759" alt="Bottled Water" title="Bottled Water"> Bottled Water </a>
       </br>
-      <a href="https://github.com/SoaringGecko/calamityVanillaItemRecipeChanges1.4.gg/wiki#items-added-from-calamity">
+      <a href="https://calamitymod.wiki.gg/wiki/Desert_Feather">
         <img src="Items/BloodOrb.png" alt="Blood Orb" title="Blood Orb"> Blood Orb </a> (10)
     </td>
   </tr>
