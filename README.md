@@ -1680,6 +1680,108 @@ All crafting recipes that have been added
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png/revision/latest/scale-to-width-down/30?cb=20200516220030" alt="Orichalcum Anvil" title="Orichalcum Anvil"> Orichalcum Anvil </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Block-placing_wands#Leaf_Wand">
+        <img src="https://terraria.wiki.gg/images/c/c4/Leaf_Wand.png" alt="Leaf Wand" title="Leaf Wand"> Leaf Wand </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Woods">
+        <img src="https://terraria.wiki.gg/images/d/df/Wood.png" alt="Wood" title="Wood"> Wood </a> (30)
+    </td>
+    <td rowspan="4">
+      <a href="https://terraria.wiki.gg/wiki/Living_Loom">
+        <img src="https://terraria.wiki.gg/images/b/b4/Living_Loom_%28placed%29.png" alt="Living Loom" title="Living Loom"> Living Loom </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Block-placing_wands#Living_Mahogany_Wand">
+        <img src="https://terraria.wiki.gg/images/3/39/Living_Mahogany_Wand.png" alt="Living Mahogany Wand" title="Living Mahogany Wand"> Living Mahogany Wand </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Rich_Mahogany">
+        <img src="https://terraria.wiki.gg/images/2/27/Rich_Mahogany.png" alt="Rich Mahogany" title="Rich Mahogany"> Rich Mahogany </a> (30)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Block-placing_wands#Living_Wood_Wand">
+        <img src="https://terraria.wiki.gg/images/f/f6/Living_Wood_Wand.png" alt="Living Wood Wand" title="Living Wood Wand"> Living Wood Wand </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Woods">
+        <img src="https://terraria.wiki.gg/images/d/df/Wood.png" alt="Wood" title="Wood"> Wood </a> (30)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Block-placing_wands#Rich_Mahogany_Leaf_Wand">
+        <img src="https://terraria.wiki.gg/images/2/29/Rich_Mahogany_Leaf_Wand.png" alt="Rich Mahogany Leaf Wand" title="Rich Mahogany Leaf Wand"> Rich Mahogany Leaf Wand </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Rich_Mahogany">
+        <img src="https://terraria.wiki.gg/images/2/27/Rich_Mahogany.png" alt="Rich Mahogany" title="Rich Mahogany"> Rich Mahogany </a> (30)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Umbrella">
+        <img src="https://terraria.wiki.gg/images/0/06/Umbrella.png" alt="Umbrella" title="Umbrella"> Umbrella </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Silk">
+        <img src="https://terraria.wiki.gg/images/8/83/Silk.png" alt="Silk" title="Silk"> Silk </a> (5)</br>
+      <a href="https://calamitymod.wiki.gg/wiki/Alternative_crafting_ingredients#Any_Copper_Bar"> 
+        <img src="https://calamitymod.wiki.gg/images/a/a7/Any_Copper_Bar.gif" width="30" alt="Any Copper Bar" title="Any Copper Bar"></a> <a href="https://calamitymod.wiki.gg/wiki/Alternative_crafting_ingredients#Any_Copper_Bar"> Any Copper Bar </a> (2)
+    </td>
+    <td rowspan="1">
+      <a href="https://terraria.wiki.gg/wiki/Loom">
+        <img src="https://terraria.wiki.gg/images/9/9d/Loom_%28placed%29.png" alt="Loom" title="Loom"> Loom </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Hooks#Tendon_Hook">
+        <img src="https://terraria.wiki.gg/images/e/ef/Tendon_Hook.png" alt="Tendon Hook" title="Tendon Hook"> Tendon Hook </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Hooks#Worm_Hook">
+        <img src="https://terraria.wiki.gg/images/d/dd/Worm_Hook.png" alt="Worm Hook" title="Worm Hook"> Worm Hook </a>
+    </td>
+    <td rowspan="2">
+      <a href="https://terraria.wiki.gg/wiki/Tinkerer%27s_Workshop">
+        <img src="https://terraria.wiki.gg/images/0/03/Tinkerer%27s_Workshop_%28placed%29.png" alt="Tinkerer's Workshop" title="Tinkerer's Workshop"> Tinkerer's Workshop </a> <b>&</b> <a href="https://terraria.wiki.gg/wiki/Ecto_Mist">Ecto Mist</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Hooks#Worm_Hook">
+        <img src="https://terraria.wiki.gg/images/d/dd/Worm_Hook.png" alt="Worm Hook" title="Worm Hook"> Worm Hook </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Hooks#Tendon_Hook">
+        <img src="https://terraria.wiki.gg/images/e/ef/Tendon_Hook.png" alt="Tendon Hook" title="Tendon Hook"> Tendon Hook </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Staff_of_Regrowth">
+        <img src="https://terraria.wiki.gg/images/1/18/Staff_of_Regrowth.png" alt="Staff of Regrowth" title="Staff of Regrowth"> Staff of Regrowth </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Rich_Mahogany">
+        <img src="https://terraria.wiki.gg/images/2/27/Rich_Mahogany.png" alt="Rich Mahogany" title="Rich Mahogany"> Rich Mahogany </a> (10) </br>
+      <a href="https://terraria.wiki.gg/wiki/Jungle_Spores">
+        <img src="https://terraria.wiki.gg/images/6/61/Jungle_Spores.png" alt="Jungle Spores" title="Jungle Spores"> Jungle Spores </a> (5) </br>
+      <a href="https://terraria.wiki.gg/wiki/Jungle_Rose">
+        <img src="https://terraria.wiki.gg/images/3/38/Jungle_Rose.png" alt="Jungle Rose" title="Jungle Rose"> Jungle Rose </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Work_Benches">
+        <img src="https://terraria.wiki.gg/images/9/91/Work_Bench.png" alt="Work Bench" title="Work Bench"> Work Bench </a>
+    </td>
+  </tr>
 </table>
 
 ### Weapons
