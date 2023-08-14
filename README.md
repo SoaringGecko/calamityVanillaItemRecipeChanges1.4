@@ -1619,7 +1619,7 @@ All crafting recipes that have been added
       <a href="https://terraria.wiki.gg/wiki/Cobweb">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/4/48/Cobweb.png/revision/latest/scale-to-width-down/26?cb=20200516205733" alt="Cobweb" title="Cobweb"> Cobweb </a> (30)
     </td>
-    <td rowspan="4">
+    <td rowspan="6">
       <a href="https://terraria.wiki.gg/wiki/Pre-Hardmode_Anvils">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png/revision/latest/scale-to-width-down/32?cb=20200516214257" alt="Iron Anvil" title="Iron Anvil"> Iron Anvil </a>
       </br>
@@ -1627,6 +1627,34 @@ All crafting recipes that have been added
       </br>
       <a href="https://terraria.wiki.gg/wiki/Pre-Hardmode_Anvils">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png/revision/latest/scale-to-width-down/32?cb=20200516214608" alt="Lead Anvil" title="Lead Anvil"> Lead Anvil </a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Minecarts#Desert_Minecart">
+        <img src="https://terraria.wiki.gg/images/f/f6/Desert_Minecart_%28mount%29.png" alt="Desert Minecart" title="Desert Minecart"> Desert Minecart </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Sandstone_Brick">
+        <img src="https://terraria.wiki.gg/images/f/f6/Sandstone_Brick.png" alt="Sandstone Brick" title="Sandstone Brick"> Sandstone Brick </a> (20)</br>
+        <a href="https://calamitymod.wiki.gg/wiki/Any_Gold_Bar">
+        <img src="https://calamitymod.wiki.gg/images/3/35/Any_Gold_Bar.gif" width="30" alt="Any Gold Bar" title="Any Gold Bar">
+      </a>
+      <a href="https://calamitymod.wiki.gg/wiki/Any_Gold_Bar"> Any Gold Bar</a> (6) </br>
+      <a href="https://terraria.wiki.gg/wiki/Alternative_crafting_ingredients#Any_Iron_Bar">
+        <img src="https://terraria.wiki.gg/images/b/b2/Any_Iron_Bar.gif" width="30" alt="Any Iron Bar" title="Any Iron Bar">
+      </a>
+      <a href="https://terraria.wiki.gg/wiki/Alternative_crafting_ingredients#Any_Iron_Bar"> Any Iron Bar</a> (3)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Encumbering_Stone">
+        <img src="https://terraria.wiki.gg/images/f/f7/Encumbering_Stone.png" alt="Encumbering Stone" title="Encumbering Stone"> Encumbering Stone </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Stone_Block">
+        <img src="https://terraria.wiki.gg/images/3/37/Stone_Block.png" alt="Stone Block" title="Stone Block"> Stone Block </a> (100)
     </td>
   </tr>
   <tr>
