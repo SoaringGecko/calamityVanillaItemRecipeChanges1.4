@@ -1876,14 +1876,18 @@ All crafting recipes that have been added
   </tr>
   <tr>
     <td>
-      <a href="https://terraria.wiki.gg/wiki/Shuriken">
-        <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ac/Shuriken.png/revision/latest/scale-to-width-down/22?cb=20200516221751" alt="Shuriken" title="Shuriken"> Shuriken </a>
+      <a href="https://terraria.wiki.gg/wiki/Enchanted_Boomerang">
+        <img src="https://terraria.wiki.gg/images/0/05/Enchanted_Boomerang.png" alt="Enchanted Boomerang" title="Enchanted Boomerang"> Enchanted Boomerang </a>
     </td>
     <td>
-      <a href="https://terraria.wiki.gg/wiki/Alternative_crafting_ingredients#Any_Iron_Bar">
-        <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b2/Any_Iron_Bar.gif/revision/latest/scale-to-width-down/30?cb=20190113000920" alt="Any Iron Bar" title="Any Iron Bar"> Any Iron Bar </a>
+      <a href="https://calamitymod.wiki.gg/wiki/Any_Gold_Bar">
+        <img src="https://calamitymod.wiki.gg/images/3/35/Any_Gold_Bar.gif" width="30" alt="Any Gold Bar" title="Any Gold Bar">
+      </a>
+      <a href="https://calamitymod.wiki.gg/wiki/Any_Gold_Bar"> Any Gold Bar</a> (8) </br>
+    <a href="https://terraria.wiki.gg/wiki/Wooden_Boomerang">
+      <img src="https://terraria.wiki.gg/images/d/dc/Wooden_Boomerang.png" alt="Wooden Boomerang" title="Wooden Boomerang"> Wooden Boomerang </a>
     </td>
-    <td rowspan="5">
+      <td rowspan="10">
       <a href="https://terraria.wiki.gg/wiki/Pre-Hardmode_Anvils">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png/revision/latest/scale-to-width-down/32?cb=20200516214257" alt="Iron Anvil" title="Iron Anvil"> Iron Anvil </a>
       </br>
@@ -1891,6 +1895,65 @@ All crafting recipes that have been added
       </br>
       <a href="https://terraria.wiki.gg/wiki/Pre-Hardmode_Anvils">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png/revision/latest/scale-to-width-down/32?cb=20200516214608" alt="Lead Anvil" title="Lead Anvil"> Lead Anvil </a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Enchanted_Sword_(item)">
+        <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b3/Enchanted_Sword_%28item%29.png/revision/latest/scale-to-width-down/34?cb=20201004152143" alt="Enchanted Sword" title="Enchanted Sword"> Enchanted Sword </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Soul_of_Light">
+        <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Soul_of_Light.gif/revision/latest/scale-to-width-down/22?cb=20171118022839" alt="Soul of Light" title="Soul of Light"> Soul of Light </a> (15) </br>
+      <a href="https://terraria.wiki.gg/wiki/Unicorn_Horn">
+        <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Unicorn_Horn.png/revision/latest/scale-to-width-down/14?cb=20200516223250" alt="Unicorn Horn" title="Unicorn Horn"> Unicorn Horn </a> (3) </br>
+      <a href="https://terraria.wiki.gg/wiki/Light_Shard">
+        <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Light_Shard.png/revision/latest/scale-to-width-down/16?cb=20200516214732" alt="Light Shard" title="Light Shard"> Light Shard </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Flare_Gun">
+        <img src="https://terraria.wiki.gg/images/5/57/Flare_Gun.png" alt="Flare Gun" title="Flare Gun"> Flare Gun </a>
+    </td>
+    <td>
+      <a href="https://calamitymod.wiki.gg/wiki/Alternative_crafting_ingredients#Any_Copper_Bar"> 
+        <img src="https://calamitymod.wiki.gg/images/a/a7/Any_Copper_Bar.gif" width="30" alt="Any Copper Bar" title="Any Copper Bar"></a> <a href="https://calamitymod.wiki.gg/wiki/Alternative_crafting_ingredients#Any_Copper_Bar"> Any Copper Bar </a> (5)</br>
+    <a href="https://terraria.wiki.gg/wiki/Torches#Standard_Torch">
+      <img src="https://terraria.wiki.gg/images/b/b2/Torch.png" alt="Torch" title="Torch"> Torch </a> (10)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Muramasa">
+        <img src="https://terraria.wiki.gg/images/c/c2/Muramasa.png" alt="Muramasa" title="Muramasa"> Muramasa </a>
+    </td>
+    <td>
+      <a href="https://calamitymod.gamepedia.com/Alternative_crafting_ingredients#Any_Cobalt_Bar">
+        <img src="https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a9/Any_Cobalt_Bar.gif/revision/latest/scale-to-width-down/30?cb=20191128204933" alt="Any Cobalt Bar"> Any Cobalt Bar </a> (15)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Sergeant_United_Shield">
+        <img src="https://terraria.wiki.gg/images/6/67/Sergeant_United_Shield.png" alt="Sergeant United Shield" title="Sergeant United Shield"> Sergeant United Shield </a>
+    </td>
+    <td>
+      <a href="https://calamitymod.gamepedia.com/Alternative_crafting_ingredients#Any_Cobalt_Bar">
+        <img src="https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a9/Any_Cobalt_Bar.gif/revision/latest/scale-to-width-down/30?cb=20191128204933" alt="Any Cobalt Bar"> Any Cobalt Bar </a> (12)</br>
+  <a href="https://terraria.wiki.gg/wiki/Soul_of_Light">
+        <img src="https://terraria.wiki.gg/images/3/3d/Soul_of_Light.gif" alt="Soul of Light" title="Soul of Light" width="22"></a>
+      <a href="https://terraria.wiki.gg/wiki/Soul_of_Light"> Soul of Light </a> (4)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Shuriken">
+        <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ac/Shuriken.png/revision/latest/scale-to-width-down/22?cb=20200516221751" alt="Shuriken" title="Shuriken"> Shuriken </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Alternative_crafting_ingredients#Any_Iron_Bar">
+        <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b2/Any_Iron_Bar.gif/revision/latest/scale-to-width-down/30?cb=20190113000920" alt="Any Iron Bar" title="Any Iron Bar"> Any Iron Bar </a>
     </td>
   </tr>
   <tr>
@@ -1949,18 +2012,137 @@ All crafting recipes that have been added
   </tr>
   <tr>
     <td>
-      <a href="https://terraria.wiki.gg/wiki/Enchanted_Sword_(item)">
-        <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b3/Enchanted_Sword_%28item%29.png/revision/latest/scale-to-width-down/34?cb=20201004152143" alt="Enchanted Sword" title="Enchanted Sword"> Enchanted Sword </a>
+      <a href="https://terraria.wiki.gg/wiki/Ball_O%27_Hurt">
+        <img src="https://terraria.wiki.gg/images/7/72/Ball_O%27_Hurt.png" alt="Ball O' Hurt" title="Ball O' Hurt"> Ball O' Hurt </a>
     </td>
     <td>
-      <a href="https://terraria.wiki.gg/wiki/Soul_of_Light">
-        <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Soul_of_Light.gif/revision/latest/scale-to-width-down/22?cb=20171118022839" alt="Soul of Light" title="Soul of Light"> Soul of Light </a> (15) </br>
-      <a href="https://terraria.wiki.gg/wiki/Unicorn_Horn">
-        <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Unicorn_Horn.png/revision/latest/scale-to-width-down/14?cb=20200516223250" alt="Unicorn Horn" title="Unicorn Horn"> Unicorn Horn </a> (3) </br>
-      <a href="https://terraria.wiki.gg/wiki/Light_Shard">
-        <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Light_Shard.png/revision/latest/scale-to-width-down/16?cb=20200516214732" alt="Light Shard" title="Light Shard"> Light Shard </a>
+      <a href="https://terraria.wiki.gg/wiki/The_Rotted_Fork">
+        <img src="https://terraria.wiki.gg/images/d/d7/The_Rotted_Fork.png" alt="The Rotted Fork" title="The Rotted Fork"> The Rotted Fork </a>
     </td>
-    <td rowspan="2">
+    <td rowspan="12">
+      <img src="https://terraria.wiki.gg/images/c/c3/Iron_Anvil.png"><a href="https://terraria.wiki.gg/wiki/Pre-Hardmode_Anvils" alt="Iron Anvil" title="Iron Anvil">Iron Anvil</a></br><b>or</b></br><img src="https://terraria.wiki.gg/images/3/32/Lead_Anvil.png"><a href="https://terraria.wiki.gg/wiki/Pre-Hardmode_Anvils">Lead Anvil</a> <b>&</b> <a href="https://terraria.wiki.gg/wiki/Ecto_Mist">Ecto Mist</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/The_Rotted_Fork">
+        <img src="https://terraria.wiki.gg/images/d/d7/The_Rotted_Fork.png" alt="The Rotted Fork" title="The Rotted Fork"> The Rotted Fork </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Ball_O%27_Hurt">
+        <img src="https://terraria.wiki.gg/images/7/72/Ball_O%27_Hurt.png" alt="Ball O' Hurt" title="Ball O' Hurt"> Ball O' Hurt </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Chain_Guillotines">
+        <img src="https://terraria.wiki.gg/images/3/33/Chain_Guillotines.png" alt="Chain Guillotines" title="Chain Guillotines"> Chain Guillotines </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Fetid_Baghnakhs">
+        <img src="https://terraria.wiki.gg/images/0/0d/Fetid_Baghnakhs.png" alt="Fetid Baghnakhs" title="Fetid Baghnakhs"> Fetid Baghnakhs </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Fetid_Baghnakhs">
+        <img src="https://terraria.wiki.gg/images/0/0d/Fetid_Baghnakhs.png" alt="Fetid Baghnakhs" title="Fetid Baghnakhs"> Fetid Baghnakhs </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Chain_Guillotines">
+        <img src="https://terraria.wiki.gg/images/3/33/Chain_Guillotines.png" alt="Chain Guillotines" title="Chain Guillotines"> Chain Guillotines </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Clinger_Staff">
+        <img src="https://terraria.wiki.gg/images/8/81/Clinger_Staff.png" alt="Clinger Staff" title="Clinger Staff"> Clinger Staff </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Life_Drain">
+        <img src="https://terraria.wiki.gg/images/2/26/Life_Drain.png" alt="Life Drain" title="Life Drain"> Life Drain </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Life_Drain">
+        <img src="https://terraria.wiki.gg/images/2/26/Life_Drain.png" alt="Life Drain" title="Life Drain"> Life Drain </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Clinger_Staff">
+        <img src="https://terraria.wiki.gg/images/8/81/Clinger_Staff.png" alt="Clinger Staff" title="Clinger Staff"> Clinger Staff </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Dart_Pistol">
+        <img src="https://terraria.wiki.gg/images/7/73/Dart_Pistol.png" alt="Dart Pistol" title="Dart Pistol"> Dart Pistol </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Dart_Rifle">
+        <img src="https://terraria.wiki.gg/images/e/e9/Dart_Rifle.png" alt="Dart Rifle" title="Dart Rifle"> Dart Rifle </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Dart_Rifle">
+        <img src="https://terraria.wiki.gg/images/e/e9/Dart_Rifle.png" alt="Dart Rifle" title="Dart Rifle"> Dart Rifle </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Dart_Pistol">
+        <img src="https://terraria.wiki.gg/images/7/73/Dart_Pistol.png" alt="Dart Pistol" title="Dart Pistol"> Dart Pistol </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Musket">
+        <img src="https://terraria.wiki.gg/images/2/2b/Musket.png" alt="Musket" title="Musket"> Musket </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/The_Undertaker">
+        <img src="https://terraria.wiki.gg/images/8/83/The_Undertaker.png" alt="The Undertaker" title="The Undertaker"> The Undertaker </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/The_Undertaker">
+        <img src="https://terraria.wiki.gg/images/8/83/The_Undertaker.png" alt="The Undertaker" title="The Undertaker"> The Undertaker </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Musket">
+        <img src="https://terraria.wiki.gg/images/2/2b/Musket.png" alt="Musket" title="Musket"> Musket </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Crimson_Rod">
+        <img src="https://terraria.wiki.gg/images/2/21/Crimson_Rod.png" alt="Crimson Rod" title="Crimson Rod"> Crimson Rod </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Vilethorn">
+        <img src="https://terraria.wiki.gg/images/5/5c/Vilethorn.png" alt="Vilethorn" title="Vilethorn"> Vilethorn </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Vilethorn">
+        <img src="https://terraria.wiki.gg/images/5/5c/Vilethorn.png" alt="Vilethorn" title="Vilethorn"> Vilethorn </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Crimson_Rod">
+        <img src="https://terraria.wiki.gg/images/2/21/Crimson_Rod.png" alt="Crimson Rod" title="Crimson Rod"> Crimson Rod </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Pulse_Bow">
+        <img src="https://terraria.wiki.gg/images/4/44/Pulse_Bow.png" alt="Pulse Bow" title="Pulse Bow"> Pulse Bow </a>
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Shroomite_Bar">
+        <img src="https://terraria.wiki.gg/images/6/63/Shroomite_Bar.png" alt="Shroomite Bar" title="Shroomite Bar"> Shroomite Bar </a> (16) </br>
+    </td>
+    <td rowspan="1">
       <a href="https://terraria.wiki.gg/wiki/Hardmode_Anvils">
         <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png/revision/latest/scale-to-width-down/30?cb=20200516215710" alt="Mythril Anvil" title="Mythril Anvil"> Mythril Anvil </a>
       </br>
@@ -1972,12 +2154,16 @@ All crafting recipes that have been added
   </tr>
   <tr>
     <td>
-      <a href="https://terraria.wiki.gg/wiki/Muramasa">
-        <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Muramasa.png/revision/latest/scale-to-width-down/48?cb=20200730142943" alt="Muramasa" title="Muramasa"> Muramasa </a>
+      <a href="https://terraria.wiki.gg/wiki/Wooden_Boomerang">
+        <img src="https://terraria.wiki.gg/images/d/dc/Wooden_Boomerang.png" alt="Wooden Boomerang" title="Wooden Boomerang"> Wooden Boomerang </a>
     </td>
     <td>
-      <a href="https://calamitymod.gamepedia.com/Alternative_crafting_ingredients#Any_Cobalt_Bar">
-        <img src="https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a9/Any_Cobalt_Bar.gif/revision/latest/scale-to-width-down/30?cb=20191128204933" alt="Any Cobalt Bar"> Any Cobalt Bar </a> (15)
+      <a href="https://terraria.wiki.gg/wiki/Woods">
+        <img src="https://terraria.wiki.gg/images/d/df/Wood.png" alt="Wood" title="Wood"> Wood </a> (7)
+    </td>
+    <td>
+      <a href="https://terraria.wiki.gg/wiki/Work_Benches">
+        <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/9/91/Work_Bench.png/revision/latest/scale-to-width-down/32?cb=20200516223653" alt="Work Bench" title="Work Bench"> Work Bench </a>
     </td>
   </tr>
 </table>
