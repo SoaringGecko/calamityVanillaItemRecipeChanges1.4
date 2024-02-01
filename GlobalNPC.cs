@@ -316,6 +316,21 @@ namespace calamityVanillaItemRecipeChanges
 				npcLoot.Add(ItemDropRule.ByCondition(new Conditions.IsBloodMoonAndNotFromStatue(), ModContent.ItemType<BloodOrb>(), 2, 1, 1));
 			}
 
+			if (npc.type == NPCID.BloodEelHead)
+			{
+				npcLoot.Add(ItemDropRule.ByCondition(new Conditions.IsBloodMoonAndNotFromStatue(), ModContent.ItemType<BloodOrb>(), 1, 40, 48));
+			}
+
+			if (npc.type == NPCID.GoblinShark)
+			{
+				npcLoot.Add(ItemDropRule.ByCondition(new Conditions.IsBloodMoonAndNotFromStatue(), ModContent.ItemType<BloodOrb>(), 1, 40, 48));
+			}
+
+			if (npc.type == NPCID.BloodNautilus)
+			{
+				npcLoot.Add(ItemDropRule.ByCondition(new Conditions.IsBloodMoonAndNotFromStatue(), ModContent.ItemType<BloodOrb>(), 1, 100, 120));
+			}
+
 			if (npc.type == NPCID.BoneSerpentBody)
 			{
 				npcLoot.Add(ItemDropRule.NormalvsExpert(ModContent.ItemType<DemonicBoneAsh>(), 2, 4));

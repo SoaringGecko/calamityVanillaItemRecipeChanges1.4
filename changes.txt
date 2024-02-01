@@ -1,26 +1,33 @@
+# 2.2.4 Changes:
+The Blood Eel, Hemogoblin Shark, and Dreadnautilus now drop blood orbs.
+
+-------------------------------
+# 2.2.3 Changes:
 Added recipes to the following:
-# Accessories
+## Accessories
 Flame Waker Boots
 
-# Ammunition
+## Ammunition
 Rocket II
 
-# Placeables
+## Placeables
 Bast Statue
 
-# Potions
+## Potions
 Greater Luck Potion
 Lesser Luck Potion
 Luck Potion
 
-# Tools
+## Tools
 Desert Minecart
 Encumbering Stone
 Tendon Hook
 Worm Hook
 
-# Weapons
+## Weapons
 Chain Guillotines
 Fetid Baghnakhs
 Clinger Staff
 Life Drain
+Dart Pistol
+Dart Rifle
